@@ -264,18 +264,30 @@ Refer to the original dataset page for its license and attribution requirements.
 
 The dashboard runs locally. The ETL, data warehouse, analytics, and prediction workflows should be validated independently before considering the project production-ready.
 
-## 👨‍💻 Author
-
-**Yousef Ibrahem** — Data Analytics Engineer
-
-- GitHub: <your-github-link>
-- LinkedIn: <your-linkedin-link>
-- Email: <your-email>
-
----
-
 <div align="center">
 
-**SalesFlow — From Data to Decisions.**
+<h2>👨‍💻 About the Author</h2>
+
+<h3>Yousef Ibrahem</h3>
+
+<b>Data Analytics Engineer</b>
+
+<p>Building data pipelines, analytical solutions, and data-driven applications.</p>
+
+<p>
+  <a href="https://github.com/yousef394">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/yousef-ibrahem-218049358">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:YA2005.5.30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<br>
+
+<b>SalesFlow — From Data to Decisions.</b>
 
 </div>
